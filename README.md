@@ -6,7 +6,7 @@ Dans la seconde phase, nous avons dû appréhender plusieurs domaines, allant de
 
 Le projet a été encadré par les équipes d'ERIOS du CHU de Montpellier, qui souhaitent poursuivre notre travail pour implémenter le dispositif en conditions réelles. Ce projet s'intitule "DoloBox".
 
-Vous trouverez sur ce repo l'ensemble de nos fichiers de code sous divisés en plusieurs repertoires avec en particulier le code de notre API, notre base de données, notre site web ou notre modèle de logique flou ainsi que, bien sûr, le code de notre microcontrôleur.
+Vous trouverez sur ce dépôt l'ensemble de nos fichiers de code sous divisés en plusieurs repertoires avec en particulier le code de notre API, notre base de données, notre site web ou notre modèle de logique flou ainsi que, bien sûr, le code de notre microcontrôleur.
 
 
 
